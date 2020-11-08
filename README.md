@@ -9,4 +9,5 @@ Objetivos:
 
 Instrucciones para correr:
 Descargar .zip y descomprimir
-Correr el Raytrace.py
+
+-Correr el Raytrace.py
